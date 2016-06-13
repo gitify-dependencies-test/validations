@@ -1,0 +1,24 @@
+{
+  "name": "validations",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gitify-dependencies-test/validations.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gitify-dependencies-test/validations/issues"
+  },
+  "homepage": "https://github.com/gitify-dependencies-test/validations#readme",
+  "dependencies": {
+    "errors": "gitify-dependencies-test/errors",
+    "lodash": "^4.13.1",
+    "schemas": "gitify-dependencies-test/schemas"
+  }
+}
